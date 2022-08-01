@@ -39,4 +39,3 @@ chmod 770 csharp/
 chmod 777 public/
 
 echo "Criação de arquivos finalizada!"
-
